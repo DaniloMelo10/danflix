@@ -1,0 +1,284 @@
+{
+  "categorias": [
+    {
+      "titulo": "Funk",
+      "cor": "#6BD1FF"
+      ,
+      "videos": [
+        {
+          "titulo": "Mc Hariel ao vivo no Baile do Poderoso",
+          "url": "https://www.youtube.com/watch?v=x_Bxh-NVWPw"
+        },
+        {
+          "titulo": "Set DJ Pedro 2.0",
+          "url": "https://www.youtube.com/watch?v=MjwKTZhB-Ls"
+        },
+        {
+          "titulo": "Dennis & MC Don Juan - Te Prometo",
+          "url": "https://www.youtube.com/watch?v=XgmX5xzK8U8"
+        },
+        {
+          "titulo": "Mc Du Black & Delacruz - Tudo Aconteceu",
+          "url": "https://www.youtube.com/watch?v=wU1U7Jgq_uo"
+        },
+        {
+          "titulo": "Mc Kevin & Mc GP - Ela Posta",
+          "url": "https://www.youtube.com/watch?v=HEltbEk2Lmw"
+        },
+        {
+          "titulo": "Mc GW - Ritmo Mexicano",
+          "url": "https://www.youtube.com/watch?v=iuUWf9Vz1V4"
+        },
+        {
+          "titulo": "Cartel do 900 - Mc Kevin, IG, Mc Rick, Menor da VG, Hariel e Don Juan - Pablo Escobar",
+          "url": "https://www.youtube.com/watch?v=tWx3y_8RbSU"
+        },
+        {
+          "titulo": "Mc Ryan SP & Mc Davi - iPhone Black",
+          "url": "https://www.youtube.com/watch?v=sxgYhbI1pdQ"
+        },
+        {
+          "titulo": "Mc Paulin da Capital, Mc Lipi e DJ GM - Mulher Cativante",
+          "url": "https://www.youtube.com/watch?v=nMGVTKq2Xx8"
+        } ,
+        {
+          "titulo": "Mc Don Juan & Mc Hariel - Lei do Retorno",
+          "url": "https://www.youtube.com/watch?v=IxfvjGJlrC4"
+        },
+        {
+          "titulo": "Mc Doni - Te Amo Sem Compromisso",
+          "url": "https://www.youtube.com/watch?v=zEE77Flhr9Y"
+        },
+        {
+          "titulo": "Mc V7 - Abandonei a Gabriela",
+          "url": "https://www.youtube.com/watch?v=c_CvjYnhOFY"
+        },
+        {
+          "titulo": "PK Ft. Pk Delas - Quando a Vontade Bater",
+          "url": "https://www.youtube.com/watch?v=xIAw2rz5uAQ"
+        },
+        {
+          "titulo": "Mc Hariel - Bica na Canela",
+          "url": "https://www.youtube.com/watch?v=cIhgFE0pJQQ"
+        },
+        {
+          "titulo": "Mc Don Juan - Tá de Luto",
+          "url": "https://www.youtube.com/watch?v=SBqTRX30mRM"
+        },
+        {
+          "titulo": "Mc Teteu - Sábado na Ressaca",
+          "url": "https://www.youtube.com/watch?v=rWkN3uCe_98"
+        }        
+      ]
+    },
+    {
+      "titulo": "RAP",
+      "cor": "#00C86F",
+      "videos": [
+        {
+          "titulo": "Orochi - Balão",
+          "url": "https://www.youtube.com/watch?v=L8_116bLouo"
+        },
+        {
+          "titulo": "Mc Caverinha & Dfideliz - Favelado Também Pode",
+          "url": "https://www.youtube.com/watch?v=C4aW4TDuVbY"
+        }, 
+        {
+          "titulo": "Dfideliz & Mc Hariel - Bloco de 100",
+          "url": "https://www.youtube.com/watch?v=O3eepDML3YM"
+        }, 
+        {
+          "titulo": "Djonga - Leal",
+          "url": "https://www.youtube.com/watch?v=sEhOY55CSng"
+        }, 
+        {
+          "titulo": "Orochi - Amor de Fim de Noite",
+          "url": "https://www.youtube.com/watch?v=jBE_X3cMCyM"
+        }, 
+        {
+          "titulo": "Djonga - Procuro Alguém",
+          "url": "https://www.youtube.com/watch?v=JaS17E2QVq0"
+        }, 
+        {
+          "titulo": "Pelé Milflows - Vem Cá",
+          "url": "https://www.youtube.com/watch?v=lV2plyhSRBU"
+        }, 
+        {
+          "titulo": "L7nnon - Perdição",
+          "url": "https://www.youtube.com/watch?v=uzSme3PRhZ0"
+        },
+        {
+          "titulo": "BIN, L7NNON, Dfideliz, Califfa - Berenice",
+          "url": "https://www.youtube.com/watch?v=1HO15l5EGvE"
+        },
+        {
+          "titulo": "Dfideliz - Obrigado, Mãe",
+          "url": "https://www.youtube.com/watch?v=7CHiHnUIdVk"
+        }, 
+        {
+          "titulo": "Orochi - Juízo Final",
+          "url": "https://www.youtube.com/watch?v=lIOzQxUBjwA"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Sertanejo",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Gustavo Lima - A Gente Fez Amor",
+          "url": "https://www.youtube.com/watch?v=SvQx5FMEVmE"
+        },
+        {
+          "titulo": "Gustavo Lima - Milu",
+          "url": "https://www.youtube.com/watch?v=bN5xWBjYvQ0"
+        },
+        {
+          "titulo": "João Gustavo e Murilo - Lençol Dobrado",
+          "url": "https://www.youtube.com/watch?v=WzFF2JVvYmk"
+        },
+        {
+          "titulo": "Zé Felipe part. Gusttavo Lima - Tiro Certo",
+          "url": "https://www.youtube.com/watch?v=7LmTa4Pg7Fs"
+        },
+        {
+          "titulo": "Matheus & Kauan - Antídoto",
+          "url": "https://www.youtube.com/watch?v=MR-UwX9sz_c"
+        },
+        {
+          "titulo": "Matheus & Kauan - Meu Oxigênio",
+          "url": "https://www.youtube.com/watch?v=8Hm3WkmS16M"
+        },
+        {
+          "titulo": "Matheus & Kauan - Litrão",
+          "url": "https://www.youtube.com/watch?v=DfdN9tII0kw"
+        },
+        {
+          "titulo": "Zé Neto e Cristiano - Barzinho Aleatório",
+          "url": "https://www.youtube.com/watch?v=hjc1dCyodG4"
+        },
+        {
+          "titulo": "Matheus & Kauan - Não É Insônia",
+          "url": "https://www.youtube.com/watch?v=K5JJ1OJbfp4"
+        }
+      ]
+    },
+    {
+      "titulo": "TRAP",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Salvador - Vergonha Pra Mídia (Ft. Mc Ryan SP/Nog/Kevin/Lele JP)",
+          "url": "https://www.youtube.com/watch?v=QkwAWe7nOXY"
+        },
+        {
+          "titulo": "Recayd Mob - Mlks de SP ft Derek, Dfideliz, Jé Santiago e MC Igu, pd. Lucas Spike",
+          "url": "https://www.youtube.com/watch?v=DqQFwivXqxI"
+        },
+        {
+          "titulo": "Sidoka - n me sinto mal mais",
+          "url": "https://www.youtube.com/watch?v=wiyUSYL7pds"
+        },
+        {
+          "titulo": "Sidoka - Qq cê tá insinuando",
+          "url": "https://www.youtube.com/watch?v=XoqaMk6fJYA"
+        },
+        {
+          "titulo": "Recayd Mob - Plaqtudum (feat. Jé Santiago, Derek & Dfideliz)",
+          "url": "https://www.youtube.com/watch?v=fPwdWahrjgg"
+        },
+        {
+          "titulo": "Dfideliz - Tráfico",
+          "url": "https://www.youtube.com/watch?v=L7UoUH78rFo"
+        },
+        {
+          "titulo": "Reunião dos cria",
+          "url": "https://www.youtube.com/watch?v=0Lx4U345_kQ"
+        },
+        {
+          "titulo": "Meno Tody - Bailão",
+          "url": "https://www.youtube.com/watch?v=b0eADT_Lab0"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Pagode",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Turma do Pagode - Cobertor de Orelha",
+          "url": "https://www.youtube.com/watch?v=PmeKh6jv0pc"
+        },
+        {
+          "titulo": "Mumuzinho - Dengo Nego",
+          "url": "https://www.youtube.com/watch?v=SeJoj_L51fY"
+        },
+        {
+          "titulo": "Turma do Pagode - Deixa em Off",
+          "url": "https://www.youtube.com/watch?v=x_uuWhEtm4k"
+        },
+        {
+          "titulo": "Sorriso Maroto - Sinais",
+          "url": "https://www.youtube.com/watch?v=FehM9dLmkvM"
+        },
+        {
+          "titulo": "Péricles - Final de Tarde",
+          "url": "https://www.youtube.com/watch?v=gOTLmghgXuw"
+        },
+        {
+          "titulo": "Turma do Pagode - Lancinho",
+          "url": "https://www.youtube.com/watch?v=S_SXl-ETXRI"
+        },
+        {
+          "titulo": "Grupo Revelação - Deixa Acontecer",
+          "url": "https://www.youtube.com/watch?v=a5GguQmkQb8"
+        },
+        {
+          "titulo": "Turma do Pagode - Horário de Verão",
+          "url": "https://www.youtube.com/watch?v=X_xcYrECLks"
+        },
+        {
+          "titulo": "Péricles - Até Que Durou",
+          "url": "https://www.youtube.com/watch?v=T3Y6RRSDm4o"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Eletrônica",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Slow Down [Vintage Culture]",
+          "url": "https://www.youtube.com/watch?v=EfTKHash5Xo"
+        },
+        {
+          "titulo": "Chemical Surf & Dubdisko - I Wanna Do",
+          "url": "https://www.youtube.com/watch?v=zls4nQfcFhs"
+        },
+        {
+          "titulo": "Rooftime & Alok - Free My Mind",
+          "url": "https://www.youtube.com/watch?v=nM1OPC6Sgrc"
+        },
+        {
+          "titulo": "Vintage Culture & Adam K - Pour Over",
+          "url": "https://www.youtube.com/watch?v=_OkP_OTyAvo"
+        },
+        {
+          "titulo": "Victor Lou - Untitled",
+          "url": "https://www.youtube.com/watch?v=sO-QiGBoUGo"
+        },
+        {
+          "titulo": "Alok & Sevenn - Symphonia",
+          "url": "https://www.youtube.com/watch?v=oPc9Bi7waOY"
+        },
+        {
+          "titulo": "Dynoro & Gigi D'Agostino - In My Mind?",
+          "url": "https://www.youtube.com/watch?v=W9P_qUnMaFg"
+        }
+      ]
+    }
+  ]
+}
